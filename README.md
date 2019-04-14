@@ -1,2 +1,2 @@
-# Lab 5 Starter Code
-Starter code for Lab 5
+# Project 2
+Code for Projet 2 (Instagram clone)
